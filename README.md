@@ -1,3 +1,7 @@
+# 说明：
+这是一个通过Selenium调用DeepL在线页面进行翻译的接口。DeepL是目前为止翻译最准确的翻译平台。
+
+-------------------------------
 # How to translate ppt files ?
 
 [Read my Medium article to discover how the library was built !](https://medium.com/@thibaud.lamothe2/using-selenium-and-deepl-to-automate-the-translation-of-power-point-files-3c01f81f113)
